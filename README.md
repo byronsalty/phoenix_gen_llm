@@ -20,4 +20,7 @@ Since these types of projects will have a lot of commonality but also vary widel
 * configs around OPENAI keys, etc
 * Documentation:
         * how to config
-	* router adjustments
+	* router adjustments	
+	* how to add RAG?
+* Vibes controller
+* Oban / Documents for RAG?
